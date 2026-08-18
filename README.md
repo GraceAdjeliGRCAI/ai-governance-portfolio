@@ -61,7 +61,7 @@ Each capability below is backed by complete, working artifacts in my private por
 
 I am open to AI Governance, AI Risk and Compliance, AI GRC, and AI Governance Program roles.
 
-The full portfolio repository — including all source code, completed assessments, and working artifacts — is available upon request.
+The full portfolio repository, including all source code, completed assessments, and working artifacts, can be viewed upon request.
 
 **Email:** gracemichaels.adjeli@gmail.com | **LinkedIn:** https://www.linkedin.com/in/graceadjeli/
 
