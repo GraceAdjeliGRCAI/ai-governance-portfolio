@@ -16,7 +16,7 @@ A policy is not a control. A log is not accountability. A dashboard is not overs
 
 ## What I build, and what the proof looks like
 
-Each capability below is backed by complete, working artifacts in my private portfolio repository — frameworks, runnable code, assessments, and evidence systems, all built to an audit standard and clearly labeled synthetic. **The full repository is available to hiring managers, recruiters, and collaborators upon request.**
+Each capability below is backed by complete, working artifacts in my private portfolio repository — frameworks, runnable code, assessments, and evidence systems, all built to an audit standard and clearly labeled synthetic. **The full repository can be viewed upon request by hiring managers, recruiters, and collaborators.**
 
 | Capability | What the full artifact contains |
 |---|---|
