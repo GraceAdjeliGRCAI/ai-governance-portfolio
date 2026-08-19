@@ -43,6 +43,14 @@ Each capability below is backed by complete, working artifacts in my private por
 |---|---|
 | ![Remediation and accountability](screenshots/page3_remediation_accountability.png) | ![Registry and inventory](screenshots/page4_registry_inventory.png) |
 
+## Live demonstration: tamper-evident evidence systems
+
+The **EGM Evidence Engine** — a working reference implementation of the Execution Governance Model's evidence guarantees. The public snapshot below shows a real engine state (synthetic data, fictional vendor): a hash-chained audit trail verified to genesis, and an approved evidence packet that **degraded itself to STALE** the moment the vendor's source document changed.
+
+**Live page:** https://bridgecore-ai.com/evidence-engine-demo.html
+
+![EGM Evidence Engine — public demonstration snapshot](screenshots/egm-evidence-engine-demo.png)
+
 ## How I work
 
 - **Evidence over assertion.** Every finding traces to cited evidence; every recommendation addresses a specific, evidenced gap.
