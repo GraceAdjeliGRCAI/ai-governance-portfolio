@@ -27,7 +27,7 @@ Each capability below is backed by complete, working artifacts in my private por
 | Agent inventory, registry, and runtime controls | A working demo: governance gateway mediating every agent action, hash-chained tamper-evident audit log, role-bound human approval gates, and a tested kill switch — 16 adversarial tests, all passing |
 | AI incident readiness and response | A full playbook: severity taxonomy, triage flow, ALF-aligned escalation matrix, four communication templates (internal, executive, regulator, customer), and post-incident review standard |
 | Use case intake and risk tiering | A complete tool: intake questionnaire with agentic best-fit check, weighted scoring model with hard overrides, and a routing decision tree with worked synthetic cases |
-| Audit evidence and assessment rigor | The NIST SP 800-37 lifecycle with CNSSI 1253 control tailoring and hash-chained evidence integrity |
+| Audit evidence and assessment rigor | The NIST SP 800-37 lifecycle with CNSSI 1253 control tailoring and hash-chained evidence integrity — plus external audit readiness built end-to-end: PCI DSS v4.0 / SOX ITGC / DORA control translation, auditor request (PBC) management, walkthrough craft, and evidence-verified remediation closure |
 | End-to-end AI governance program execution | A full program case study: charter through ISO/IEC 42001 internal audit with evidence-verified CAPA closure |
 | Governance metrics and executive reporting | A four-page executive dashboard on a reproducible synthetic dataset (sample pages below) |
 | NIST CSF 2.0 GOVERN assessment execution | A complete 31-subcategory assessment with evidence pack: request log, board documents, and findings where documents outrank stakeholder claims |
