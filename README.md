@@ -1,4 +1,4 @@
-# Grace M. Adjeli — AI Governance Portfolio
+# Grace M. Adjeli: AI Governance Portfolio
 
 **AI Governance & Security Leader | AIGP • CISSP • PMP | AI GRC, Runtime Governance & Accountability Engineering | Author, Execution Governance Model | PhD Candidate**
 
@@ -8,26 +8,27 @@ I build the part of AI governance that most organizations skip: the enforcement 
 
 A policy is not a control. A log is not accountability. A dashboard is not oversight. My work lives in the distinction.
 
-- LinkedIn: https://www.linkedin.com/in/graceadjeli/
-- Writing: https://graceadjeli.substack.com/
-- Research: https://bridgecore-ai.com/
+- LinkedIn: <https://www.linkedin.com/in/graceadjeli/>
+- Writing: <https://graceadjeli.substack.com/>
+- Research: <https://bridgecore-ai.com/>
 
 ---
 
 ## What I build, and what the proof looks like
 
-Each capability below is backed by complete, working artifacts in my private portfolio repository — frameworks, runnable code, assessments, and evidence systems, all built to an audit standard and clearly labeled synthetic. **The full repository can be viewed upon request by hiring managers, recruiters, and collaborators.**
+Each capability below is backed by complete, working artifacts in my private portfolio repository, frameworks, runnable code, assessments, and evidence systems, all built to an audit standard and clearly labeled synthetic. **The full repository can be viewed upon request by hiring managers, recruiters, and collaborators.**
 
 | Capability | What the full artifact contains |
-|---|---|
+| --- | --- |
 | AI governance frameworks, policies, and controls | A NIST CSF 2.0 GOVERN operating model built as a public reference implementation: control records, evidence architecture, registers, and review workflows at audit standard |
 | Regulatory translation (NIST AI RMF, ISO/IEC 42001, EU AI Act) | Frameworks converted into operational controls and working processes, not policy summaries |
 | Runtime governance and enforcement | The Execution Governance Model v3.0: a formally specified runtime governance framework with 6 verified guarantees, 57 adversarial tests, and 21 conformance checks |
+| Execution-time governance and action admissibility | Governance at Execution Case Study 01: five hypotheses on authority versus authorization, action admissibility under changed conditions, and unresolved state divergence tested against a reconstructed AI security incident. Introduces MVAC v1.0, a governance architecture model structuring execution context across Principal, Action, Object, Target, Current State, and Authorization Context |
 | Human oversight, escalation, and accountability | The Accountability Layer Framework v4.0: named ownership, time-bound escalation, and closure that must be earned with evidence |
-| Agent inventory, registry, and runtime controls | A working demo: governance gateway mediating every agent action, hash-chained tamper-evident audit log, role-bound human approval gates, and a tested kill switch — 16 adversarial tests, all passing |
+| Agent inventory, registry, and runtime controls | A working demo: governance gateway mediating every agent action, hash-chained tamper-evident audit log, role-bound human approval gates, and a tested kill switch, verified by 16 adversarial tests, all passing |
 | AI incident readiness and response | A full playbook: severity taxonomy, triage flow, ALF-aligned escalation matrix, four communication templates (internal, executive, regulator, customer), and post-incident review standard |
 | Use case intake and risk tiering | A complete tool: intake questionnaire with agentic best-fit check, weighted scoring model with hard overrides, and a routing decision tree with worked synthetic cases |
-| Audit evidence and assessment rigor | The NIST SP 800-37 lifecycle with CNSSI 1253 control tailoring and hash-chained evidence integrity — plus external audit readiness built end-to-end: PCI DSS v4.0 / SOX ITGC / DORA control translation, auditor request (PBC) management, walkthrough craft, and evidence-verified remediation closure |
+| Audit evidence and assessment rigor | The NIST SP 800-37 lifecycle with CNSSI 1253 control tailoring and hash-chained evidence integrity |
 | End-to-end AI governance program execution | A full program case study: charter through ISO/IEC 42001 internal audit with evidence-verified CAPA closure |
 | Governance metrics and executive reporting | A four-page executive dashboard on a reproducible synthetic dataset (sample pages below) |
 | NIST CSF 2.0 GOVERN assessment execution | A complete 31-subcategory assessment with evidence pack: request log, board documents, and findings where documents outrank stakeholder claims |
@@ -36,20 +37,20 @@ Each capability below is backed by complete, working artifacts in my private por
 ## Sample: governance metrics dashboard (synthetic data)
 
 | Executive overview | Risk exposure |
-|---|---|
-| ![Executive overview](screenshots/page1_executive_overview.png) | ![Risk exposure](screenshots/page2_risk_exposure.png) |
+| --- | --- |
+| [![Executive overview](https://github.com/GraceAdjeliGRCAI/ai-governance-portfolio/raw/main/screenshots/page1_executive_overview.png)](/GraceAdjeliGRCAI/ai-governance-portfolio/blob/main/screenshots/page1_executive_overview.png) | [![Risk exposure](https://github.com/GraceAdjeliGRCAI/ai-governance-portfolio/raw/main/screenshots/page2_risk_exposure.png)](/GraceAdjeliGRCAI/ai-governance-portfolio/blob/main/screenshots/page2_risk_exposure.png) |
 
 | Remediation & accountability | Registry & inventory |
-|---|---|
-| ![Remediation and accountability](screenshots/page3_remediation_accountability.png) | ![Registry and inventory](screenshots/page4_registry_inventory.png) |
+| --- | --- |
+| [![Remediation and accountability](https://github.com/GraceAdjeliGRCAI/ai-governance-portfolio/raw/main/screenshots/page3_remediation_accountability.png)](/GraceAdjeliGRCAI/ai-governance-portfolio/blob/main/screenshots/page3_remediation_accountability.png) | [![Registry and inventory](https://github.com/GraceAdjeliGRCAI/ai-governance-portfolio/raw/main/screenshots/page4_registry_inventory.png)](/GraceAdjeliGRCAI/ai-governance-portfolio/blob/main/screenshots/page4_registry_inventory.png) |
 
 ## Live demonstration: tamper-evident evidence systems
 
-The **EGM Evidence Engine** — a working reference implementation of the Execution Governance Model's evidence guarantees. The public snapshot below shows a real engine state (synthetic data, fictional vendor): a hash-chained audit trail verified to genesis, and an approved evidence packet that **degraded itself to STALE** the moment the vendor's source document changed.
+The **EGM Evidence Engine** is a working reference implementation of the Execution Governance Model's evidence guarantees. The public snapshot below shows a real engine state (synthetic data, fictional vendor): a hash-chained audit trail verified to genesis, and an approved evidence packet that **degraded itself to STALE** the moment the vendor's source document changed.
 
-**Live page:** https://bridgecore-ai.com/evidence-engine-demo.html
+**Live page:** <https://bridgecore-ai.com/evidence-engine-demo.html>
 
-![EGM Evidence Engine — public demonstration snapshot](screenshots/egm-evidence-engine-demo.png)
+![EGM Evidence Engine, public demonstration snapshot](screenshots/egm-evidence-engine-demo.png)
 
 ## How I work
 
@@ -62,6 +63,7 @@ The **EGM Evidence Engine** — a working reference implementation of the Execut
 
 - More than ten years across technology risk, cybersecurity governance, and program delivery in regulated environments: federal financial institutions, DoD-aligned missions, financial services, and healthcare.
 - Certifications: AIGP | CISSP | SSCP | PMP | PMI-ACP | SAFe SPC | SAFe RTE
+- In progress: ISO/IEC 42001 AI Management System | AAISM
 - PhD candidate at Capitol Technology University, researching ethical frameworks for human-AI collaboration in cybersecurity decision-making.
 - Frameworks: NIST AI RMF | ISO/IEC 42001 | EU AI Act | NIST CSF 2.0 | NIST SP 800-53 and 800-37 | FedRAMP 20x | OWASP AI Security
 
@@ -71,9 +73,8 @@ I am open to AI Governance, AI Risk and Compliance, AI GRC, and AI Governance Pr
 
 The full portfolio repository, including all source code, completed assessments, and working artifacts, can be viewed upon request.
 
-**Email:** gracemichaels.adjeli@gmail.com | **LinkedIn:** https://www.linkedin.com/in/graceadjeli/
+**Email:** <gracemichaels.adjeli@gmail.com> | **LinkedIn:** <https://www.linkedin.com/in/graceadjeli/>
 
 ---
 
-*Governance is not what is defined. It is what is enforced at execution.*
-**Grace M. Adjeli**
+*Governance is not what is defined. It is what is enforced at execution.* **Grace M. Adjeli**
