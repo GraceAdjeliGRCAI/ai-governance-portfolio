@@ -63,6 +63,26 @@ I performed a guided, manual check of the **public browser illustration** after 
 
 [Examine the case study, browser illustration, and evidence downloads](https://bridgecore-ai.com/ai-governance-email-gate.html)
 
+### Email Authorization Gate — Visual Evidence
+
+These screenshots document observed results from the synthetic browser illustration. The Python test screenshot is separate local test evidence, not production assurance.
+
+| Authorized execution | Changed payload |
+| --- | --- |
+| ![Authorized simulated execution](screenshots/email-gate-authorized.png) | ![Changed payload requires human review](screenshots/email-gate-payload-changed.png) |
+| **PERMIT — AUTHORIZED**; simulated receipt recorded. | **HUMAN_REVIEW — PAYLOAD_CHANGED**; no execution. |
+
+| Approval replay | Revoked authority |
+| --- | --- |
+| ![Consumed approval blocked](screenshots/email-gate-replay-blocked.png) | ![Revoked authority blocked](screenshots/email-gate-revoked.png) |
+| **BLOCK — APPROVAL_ALREADY_USED**; no execution. | **BLOCK — REVOKED_AUTHORITY**; no execution. |
+
+**Separate local Python test results**
+
+![Python tests: 18 passed, 7 subtests passed](screenshots/email-gate-python-tests-passed.png)
+
+The screenshot shows a locally reproduced test run. The recorded CI evidence and integrity manifest are linked in the case study above. These demonstrations do not establish independent or production assurance.
+
 ## Other governance and assurance work
 
 **Governance at Execution™ and GAEX:** Explore the distinction between design-time approval and whether a particular action remains permissible under current conditions. The MVAC context model captures Principal, Action, Object, Target, Current State and Authorization Context. [Case study](https://bridgecore-ai.com/governance-at-execution-case-study-01.html) · [GAEX technical repository](https://github.com/BridgeCoreAI/gaex)
