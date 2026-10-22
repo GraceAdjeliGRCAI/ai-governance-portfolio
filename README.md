@@ -89,7 +89,7 @@ The screenshot shows a locally reproduced test run. The recorded CI evidence and
 
 **Governance at Execution™ and GAEX:** Explore the distinction between design-time approval and whether a particular action remains permissible under current conditions. The MVAC context model captures Principal, Action, Object, Target, Current State and Authorization Context. [Case study](https://bridgecore-ai.com/governance-at-execution-case-study-01.html) · [GAEX technical repository](https://github.com/BridgeCoreAI/gaex)
 
-**LLM Export-Control Gate:** Explore classification-aware request admissibility, endpoint constraints, prompt-injection and exfiltration screening, permit/block/human-review routing, and evidence capture. [Technical repository](https://github.com/BridgeCoreAI/llm-export-control-gate)
+**LLM Export-Control Gate:** Explore classification-aware request admissibility, endpoint constraints, prompt-injection and exfiltration screening, permit/block/human-review routing, and evidence capture; 55 adversarial and conformance tests run in public CI. [Technical repository](https://github.com/BridgeCoreAI/llm-export-control-gate)
 
 **AI risk assessment and governance operations:** Develop synthetic workflows for use-case intake, risk tiering, evidence collection, decision ownership, exceptions, findings, treatment actions and review. Detailed private artifacts may be discussed separately; descriptions are not presented as public verification.
 
