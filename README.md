@@ -98,6 +98,7 @@ The screenshot shows a locally reproduced test run. The recorded CI evidence and
 **Data governance:** Address data classification, provenance, lineage, access, retention, ownership and changing authorization context as underlying AI governance concerns.
 
 ## Governance metrics dashboard (synthetic)
+These illustrate the reporting surface of a governance program — executive overview, risk exposure, remediation accountability, and registry health — built on reproducible synthetic data.
 
 These illustrations use reproducible fictional data, not live employer or client performance information.
 
