@@ -28,7 +28,7 @@ I founded **BridgeCore AI** to research, design, implement, and test practical A
 
 | AI Governance role family | Relevant capabilities and evidence |
 | --- | --- |
-| **AI Governance Analyst / Program Operations** | AI use-case intake, assessment workflows, review packets, decision registers, tracking, monitoring, executive reporting, cross-functional coordination |
+| **AI Governance Analyst / Program Operations** | AI use-case intake, assessment workflows, registries and inventories, review packets, decision registers, routing and notification patterns, tracking, monitoring, executive reporting, cross-functional coordination |
 | **AI Risk & Controls** | Risk classification, control mapping, evidence evaluation, findings, remediation tracking, residual-risk analysis and reassessment |
 | **Responsible AI / AI Assurance** | Human oversight, authorization boundaries, assurance claims, evidence sufficiency, corrective action and bounded restoration |
 | **AI Security / AI GRC** | Security control assessment, sensitive-data controls, least-privilege approaches, execution gates, security and audit evidence |
