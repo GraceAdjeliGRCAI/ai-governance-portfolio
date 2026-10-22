@@ -10,7 +10,7 @@ I am an AI governance and enterprise technology practitioner with more than 10 y
 
 I founded **BridgeCore AI** to research, design, implement, and test practical AI governance approaches. This portfolio connects my professional experience to selected practitioner work. It includes risk assessments and operating workflows as well as technical controls. My synthetic examples are **not represented as production client deployments**.
 
-[LinkedIn](https://www.linkedin.com/in/graceadjeli/) · [BridgeCore AI](https://bridgecore-ai.com/) · [Substack](https://graceadjeli.substack.com/)
+[LinkedIn](https://www.linkedin.com/in/graceadjeli/) · [BridgeCore AI](https://bridgecore-ai.com/) · [Substack](https://graceadjeli.substack.com/)  · gracemichaels.adjeli@gmail.com
 
 ## Start here — selected work
 
