@@ -20,6 +20,8 @@ I founded **BridgeCore AI** to research, design, implement, and test practical A
 | [Governance at Execution — Case Study 01](https://bridgecore-ai.com/governance-at-execution-case-study-01.html) | What happens when conditions change between approval and execution? | Scenario analysis and MVAC model; analytical reference work |
 | [LLM Export-Control Gate](https://github.com/BridgeCoreAI/llm-export-control-gate) | How can classification and endpoint restrictions be evaluated before model access? | Reference implementation; not certified export-control compliance |
 | [GAEX](https://github.com/BridgeCoreAI/gaex) | How can action admissibility depend on current context? | Public implementation and technical repository; scope defined in repo |
+| [HITL Under Load](https://github.com/BridgeCoreAI/hitl-under-load) | Where does human-in-the-loop oversight silently degrade under load? | Discrete-event simulator; reproducibility suite re-verifies every published finding on each push; public CI |
+| [AI GRC Engineering](https://github.com/BridgeCoreAI/ai-grc-engineering) | Can documentation claims about a framework be machine-enforced? | 26-module portfolio (NIST AI RMF, ISO/IEC 42001, EU AI Act); "26 modules complete" verified by structural integrity CI |
 | AI Governance Risk Assessment Practitioner Lab | How do intake, assessment, control evaluation, decisions and monitoring connect? | Structured synthetic practitioner artifacts; detailed private materials are not claimed as publicly verifiable |
 
 ## Relevant career capabilities
