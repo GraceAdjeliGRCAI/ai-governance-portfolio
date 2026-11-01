@@ -1,0 +1,87 @@
+{
+  "author": "Grace Adjeli",
+  "generatedAt": "2026-11-01T01:27:00.911000Z",
+  "framework": "Vitest",
+  "summary": {
+    "total": 15,
+    "passed": 15,
+    "failed": 0
+  },
+  "tests": [
+    {
+      "id": "T01",
+      "name": "Public information read returns PERMIT",
+      "status": "passed"
+    },
+    {
+      "id": "T02",
+      "name": "Internal data export returns HUMAN REVIEW",
+      "status": "passed"
+    },
+    {
+      "id": "T03",
+      "name": "Production deletion returns BLOCK",
+      "status": "passed"
+    },
+    {
+      "id": "T04",
+      "name": "Missing parameters return BLOCK",
+      "status": "passed"
+    },
+    {
+      "id": "T05",
+      "name": "Supervisor approval does not bypass human review",
+      "status": "passed"
+    },
+    {
+      "id": "T06",
+      "name": "Self approval is rejected",
+      "status": "passed"
+    },
+    {
+      "id": "T07",
+      "name": "Authorized independent approval is accepted",
+      "status": "passed"
+    },
+    {
+      "id": "T08",
+      "name": "Valid approval permits one simulated execution",
+      "status": "passed"
+    },
+    {
+      "id": "T09",
+      "name": "Reused approval is blocked",
+      "status": "passed"
+    },
+    {
+      "id": "T10",
+      "name": "Expired approval is blocked",
+      "status": "passed"
+    },
+    {
+      "id": "T11",
+      "name": "Changed parameters invalidate approval",
+      "status": "passed"
+    },
+    {
+      "id": "T12",
+      "name": "Agent policy modification is blocked",
+      "status": "passed"
+    },
+    {
+      "id": "T13",
+      "name": "Direct tool access without the gateway is rejected",
+      "status": "passed"
+    },
+    {
+      "id": "T14",
+      "name": "Evidence modification is detected",
+      "status": "passed"
+    },
+    {
+      "id": "T15",
+      "name": "Evidence store unavailability fails closed",
+      "status": "passed"
+    }
+  ]
+}
