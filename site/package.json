@@ -2,6 +2,7 @@
   "name": "ai-governance-portfolio",
   "private": true,
   "version": "0.0.0",
+  "author": "Grace Adjeli",
   "type": "module",
   "scripts": {
     "dev": "vite",
