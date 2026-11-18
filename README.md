@@ -128,11 +128,10 @@ Published on the [BridgeCore AI website](https://bridgecore-ai.com/). These are 
 | Continuous Governance Engineering Lifecycle™ | A nine-stage method for treating governance as a living system, from regulation through evidence to continuous improvement | A methodology and diagram; no test suite |
 | Regulatory Engineering | How the methodology applies EU AI Act, NIST AI RMF and ISO/IEC 42001 requirements to operational governance | Engineering analysis; not legal advice or a compliance certification |
 
-## Writing and speaking
+## Writing
 
 - **Newsletter, Governance at Execution™ (LinkedIn):** [Issue 1, November 4, 2026: An AI supervisor can recommend. Execution Governance decides.](https://www.linkedin.com/pulse/ai-supervisor-can-recommend-execution-governance-decides-adjeli-rqxde/)
 - **Articles:** [Substack](https://graceadjeli.substack.com/)
-- **Talk (upcoming):** *From Inherent Risk to Residual Risk: Testing Whether the Control Works*, AI GRC Summit, November 21, 2026, 12:05 pm ET, 30 minutes. The worked example behind it is the [Residual Risk Case](https://github.com/BridgeCoreAI/residual-risk-case).
 
 ## Professional experience
 
