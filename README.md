@@ -1,6 +1,6 @@
 # Grace Adjeli | AI Governance & AI Security Consultant
 
-**AI Governance • Responsible AI • AI Risk & Controls • AI Security • Governance Program Implementation**
+**AI Governance • AI Security • Responsible AI • AI Risk & Controls • AI GRC • AI Assurance • Third-Party AI Risk**
 
 **AIGP | CISSP | PMP | PMI-ACP | SSCP**
 
